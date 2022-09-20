@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Position Fixed</title>
+    <title>Opacity</title>
     <style>
       #wrapper {
         width: 960px;
@@ -17,6 +17,14 @@
         text-align: center;
         position: fixed;
         width: 100%;
+        left: 0;
+        top:0;
+        opacity: 0.8;
+      }
+
+      #content{
+        position:relative;
+        top: 1px;
       }
     </style>
   </head>
@@ -24,7 +32,7 @@
     <div id="wrapper">
       <div id="header">UNITOP.VN</div>
       <div id="content">
-        <h1>Position Fixed</h1>
+        <h1>Opacity</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
           eveniet vel at nulla. Quisquam excepturi vel minima repellat
