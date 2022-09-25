@@ -1,0 +1,25 @@
+:root{
+  --pri
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.text-center{
+  text-align: center;
+}
+
+
+

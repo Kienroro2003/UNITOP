@@ -39,7 +39,6 @@ body {
   text-transform: uppercase;
   padding: 20px 0;
   background-color: var(--header-color);
-  color: white;
 }
 
 .content-height {
@@ -50,5 +49,4 @@ body {
   text-align: center;
   color: white;
   padding: 10px 0;
-  background-color: #000;
 }

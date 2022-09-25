@@ -5,7 +5,8 @@
   font-weight: bold;
   color: white;
   text-align: center;
-
+  padding: 20px 0;
+  background-color: var(--header-color);
 }
 
 #content {

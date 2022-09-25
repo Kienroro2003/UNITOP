@@ -20,6 +20,7 @@ body {
   font-size: 20px;
 }
 
+
 .container {
   width: 960px;
   margin: 0 auto;
@@ -37,18 +38,4 @@ body {
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
-  padding: 20px 0;
-  background-color: var(--header-color);
-  color: white;
-}
-
-.content-height {
-  height: 70rem;
-}
-
-.text-footer {
-  text-align: center;
-  color: white;
-  padding: 10px 0;
-  background-color: #000;
 }

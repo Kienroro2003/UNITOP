@@ -39,7 +39,6 @@ body {
   text-transform: uppercase;
   padding: 20px 0;
   background-color: var(--header-color);
-  color: white;
 }
 
 .content-height {
