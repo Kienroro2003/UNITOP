@@ -1,0 +1,9 @@
+.content{
+    width: 66rem;
+    background-color: var(--primery-color);
+}
+
+.sidebar{
+    width: 30rem;
+    background-color: var(--second-color);
+}

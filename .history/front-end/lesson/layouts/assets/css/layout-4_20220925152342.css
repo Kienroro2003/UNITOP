@@ -1,0 +1,6 @@
+.content{
+    flex-basis: 66rem;
+    background-color: var(--primary-color);
+}
+
+.side

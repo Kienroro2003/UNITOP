@@ -1,0 +1,8 @@
+.content{
+    width: 66rem;
+    background-color: var(--primary-color);
+}
+
+.siderbar{
+    width: 30;
+}

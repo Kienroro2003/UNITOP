@@ -1,0 +1,9 @@
+.content{
+    flex-basis: 66rem;
+    background-color: var(--primery-color);
+}
+
+.sidebar{
+    fl: 30rem;
+    background-color: var(--second-color);
+}

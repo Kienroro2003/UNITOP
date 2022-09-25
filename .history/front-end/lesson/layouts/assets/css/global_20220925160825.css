@@ -1,0 +1,61 @@
+:root {
+  --header-color: #0073aa;
+  --footer-color: #000;
+  --primary-color: #f4f4f4;
+  --second-color: #f8f8f8;
+}
+
+.bgc-primary{
+  background-color: #f4f4f4;
+}
+
+.bgc-second{
+  background-color: #f8f8f8;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.d-flex{
+  display:flex;
+}
+
+.text-header {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 20px 0;
+  background-color: var(--header-color);
+  color: white;
+}
+
+#wp-content{
+  display: flex;
+  min-height: 67rem;
+}
+
+
+
+.text-footer {
+  text-align: center;
+  color: white;
+  padding: 10px 0;
+  background-color: #000;
+}
