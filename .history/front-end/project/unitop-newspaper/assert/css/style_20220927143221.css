@@ -67,7 +67,7 @@ input[type="text"]:focus:hover {
 }
 
 .navbar-item a.navbar-link {
-    display: inline-block;
+    disp
   padding: 1.2rem 4.2rem 0.8rem 0;
   color: var(--primary-text-color);
 }

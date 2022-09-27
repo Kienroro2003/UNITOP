@@ -53,21 +53,18 @@ input[type="text"]:focus:hover {
   color: #a2a1a1;
 }
 
-.navbar {
-  padding: 0.9rem 0;
+.navbar{
+    padding: 0.9rem 0;
 }
 
 .navbar-list {
   border-right: 1rem solid red;
 }
 
-.navbar-item:hover a.navbar-link {
-    color:var(--second-color);
-    transition:all 0.2s linear;
+.navbar-item {
+  
 }
 
 .navbar-item a.navbar-link {
-    display: inline-block;
-  padding: 1.2rem 4.2rem 0.8rem 0;
   color: var(--primary-text-color);
 }

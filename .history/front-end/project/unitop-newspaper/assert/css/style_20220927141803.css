@@ -2,7 +2,7 @@
   --primary-color: #23272d;
   --second-color: #4eb1eb;
   --third-color: #909090;
-  --primary-text-color: #edeeee;
+  --primary-text-color:#EDEEEE;
 }
 
 #header {
@@ -53,21 +53,14 @@ input[type="text"]:focus:hover {
   color: #a2a1a1;
 }
 
-.navbar {
+.navbar-list {
   padding: 0.9rem 0;
 }
 
-.navbar-list {
-  border-right: 1rem solid red;
+.navbar-item{
+    color:var(--primary-text-color);
 }
 
-.navbar-item:hover a.navbar-link {
-    color:var(--second-color);
-    transition:all 0.2s linear;
-}
-
-.navbar-item a.navbar-link {
-    display: inline-block;
-  padding: 1.2rem 4.2rem 0.8rem 0;
-  color: var(--primary-text-color);
+.navbar-item a.navbar-link{
+    
 }

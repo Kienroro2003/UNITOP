@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #23272d;
+  --second-color: #4eb1eb;
+  --thirty-color:#
+}
+
+#header {
+  background-color: var(--primary-color)
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2.8rem;
+}

@@ -1,0 +1,33 @@
+:root {
+  --primary-color: #23272d;
+  --second-color: #4eb1eb;
+  --third-color: #909090;
+}
+
+#header {
+  background-color: var(--primary-color);
+}
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 2.8rem;
+}
+
+.form-search{
+    
+}
+
+.search {
+  width: 24.7rem;
+  height: 4.1rem;
+
+}
+
+.btn-search{
+    position:absolute;
+    top:0;
+    right:0;
+
+}

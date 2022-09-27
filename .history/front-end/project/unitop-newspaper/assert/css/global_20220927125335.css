@@ -1,0 +1,17 @@
+html{
+    font-size: 62.5%;
+}
+
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1.6rem; 
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
+
+a{
+    
+}
